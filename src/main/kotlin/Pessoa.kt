@@ -2,6 +2,8 @@ class Pessoa {
     var nome: String = "Antonio"
     var cpf: String = "123.456.321-97"
     private set
+
+    constructor()
 /**
     inner class Endereco {
 
